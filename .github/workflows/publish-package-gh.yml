@@ -1,4 +1,4 @@
-name: publish-package
+name: publish-package-gh
 
 on:
   push:
