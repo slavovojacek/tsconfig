@@ -24,8 +24,10 @@ jobs:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Perform basic audit
-        run: npm audit --audit-level low
+      # Skip, package-lock.json not present
+      #
+      # - name: Perform basic audit
+      #   run: npm audit --audit-level low
 
       - name: Publish
         run: npm publish --access public
