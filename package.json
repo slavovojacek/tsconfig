@@ -32,6 +32,6 @@
   "homepage": "https://github.com/slavovojacek/tsconfig#readme",
   "peerDependencies": {
     "@types/node": "16.x",
-    "typescript": "4.5.x"
+    "typescript": "^4.4.0"
   }
 }
