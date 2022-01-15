@@ -6,9 +6,6 @@
     ],
     "module": "commonjs",
     "moduleResolution": "node",
-    // "inlineSourceMap": true,
-    // "inlineSources": true,
-    // "sourceMap": true,
     "esModuleInterop": true,
     "resolveJsonModule": false,
     "forceConsistentCasingInFileNames": true,
@@ -24,7 +21,6 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,
     "noPropertyAccessFromIndexSignature": true,
-    "noEmitOnError": true,
-    "exactOptionalPropertyTypes": true
+    "noEmitOnError": true
   }
 }
