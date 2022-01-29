@@ -20,7 +20,6 @@
     "noImplicitOverride": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,
-    "noPropertyAccessFromIndexSignature": true,
     "noEmitOnError": true
   }
 }
